@@ -30,7 +30,7 @@ function App() {
           <a className="nav-Link">FQA</a>
         </li>
   </ul>
-  <button className="nav-Btn">Calculate Solar</button> 
+  
 </div>
 </div>
   <div id='sectionTwo'>
